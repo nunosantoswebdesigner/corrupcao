@@ -6,9 +6,9 @@ Links:
 [Repo](https://github.com/nunosantoswebdesigner/corrupcao)
 
 
-![home](https://nunosantoswebdesigner.github.io/corrupcao/img/screens/screen_corrupcao_1.png)
-![menu](https://nunosantoswebdesigner.github.io/corrupcao/img/screens/screen_corrupcao_2.png)
-![item](https://nunosantoswebdesigner.github.io/corrupcao/img/screens/screen_corrupcao_3.png)
+![home](https://nunosantoswebdesigner.github.io/corrupcao/img/sreens/screen_corrupcao_1.png)
+![menu](https://nunosantoswebdesigner.github.io/corrupcao/img/sreens/screen_corrupcao_2.png)
+![item](https://nunosantoswebdesigner.github.io/corrupcao/img/sreens/screen_corrupcao_3.png)
 
 
 
