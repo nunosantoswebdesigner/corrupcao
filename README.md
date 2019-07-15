@@ -1,15 +1,16 @@
 # Corrupção no Brasil
 
-Links:
-github repo [corrupcao : ](https://www.) nunosantoswebdesigner.
-github pages [corrupcao : ](https://www.youtube.com/watch?v=Z9Ku5ptjzKw) video.
-online [corrupcao : ](https://www.youtube.com/watch?v=Z9Ku5ptjzKw) video.
+Links:  
 
-![Grid Menu](https://tympanus.net/codrops/wp-content/uploads/2018/03/GridMenu_featured.jpg)
+[Demo](https://nunosantoswebdesigner.github.io/corrupcao/)
+[Repo](https://github.com/nunosantoswebdesigner/corrupcao)
 
-[Article on Codrops](https://tympanus.net/codrops/?p=34419)
 
-[Demo](http://tympanus.net/Development/GridMenu/)
+![home](https://nunosantoswebdesigner.github.io/corrupcao/img/screens/screen_corrupcao_1)
+![menu](https://nunosantoswebdesigner.github.io/corrupcao/img/screens/screen_corrupcao_2)
+![item](https://nunosantoswebdesigner.github.io/corrupcao/img/screens/screen_corrupcao_3)
+
+
 
 ## Credits
 
@@ -22,10 +23,13 @@ This resource can be used freely if integrated or build upon in personal or comm
 
 ## Misc
 
-Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/codrops), [Google+](https://plus.google.com/101095823814290637419), [GitHub](https://github.com/codrops), [Pinterest](http://www.pinterest.com/codrops/), [Instagram](https://www.instagram.com/codropsss/)
+Follow Me at:   [Twitter](http://www.twitter.com/nunosantoswebdesigner),     
+                [Facebook](http://www.facebook.com/nunosantoswebdesigner),     
+                [GitHub](https://github.com/nunosantoswebdesigner),     
+                [Instagram](https://www.instagram.com/nunosantos_webdesignerss/)     
 
 
-[© Codrops 2018](http://www.codrops.com)
+[© Nuno Santos 2019](https://nuno-santos.netlify.com)
 
 
 
